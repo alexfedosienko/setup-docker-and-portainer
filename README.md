@@ -1,6 +1,5 @@
 ### Установка Docker, Docker-compose и Portainer
 
-Запустить   
 `wget https://raw.githubusercontent.com/alexfedosienko/setup-docker-and-portainer/main/setup.sh -O setup.sh && sh setup.sh`
 
 ### Установка только Docker и Docker-compose
